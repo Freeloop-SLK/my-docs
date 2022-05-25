@@ -1,2 +1,5 @@
 site_name: SLK Docs
+nav:
+    - Home: index.md
+    - About: about.md
 theme: readthedocs
