@@ -1,5 +1,14 @@
 site_name: SLK Docs
 nav:
     - Home: index.md
+    - User guide:
+        - Writing your docs: user-guide/writing-your-docs.md
+        - Styling your docs: user-guide/styling-your-docs.md
+    - License: license.md
     - About: about.md
 theme: readthedocs
+markdown_extensions:
+    - toc:
+        permalink: "#"
+        baselevel: 2
+        separator: "_"

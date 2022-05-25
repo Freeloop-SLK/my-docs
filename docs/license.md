@@ -1,0 +1,5 @@
+# Project licenses
+
+## Free
+
+## Mit
