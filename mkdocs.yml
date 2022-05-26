@@ -12,3 +12,6 @@ markdown_extensions:
         permalink: "#"
         baselevel: 2
         separator: "_"
+plugins:
+    - search
+    - mkpdfs
